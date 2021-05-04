@@ -1,7 +1,8 @@
-### Hi there 👋
+![davirpp](https://i.imgur.com/bPWHtBu.png)
 
-![davirpp](https://i.imgur.com/65rhz2O.png)
+Hey 👋,
 
+I am a studying Data Science and Artificial Intelligence at Federal University of Paraiba. I am interested in all fields of Artificial Intelligence, Data Science and in love with Python.
 <!--
 **davirpp/davirpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
