@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![davirpp](https://imgur.com/65rhz2O)
+![davirpp](https://i.imgur.com/65rhz2O.png)
 
 <!--
 **davirpp/davirpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
