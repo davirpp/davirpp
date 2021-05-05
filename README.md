@@ -3,17 +3,18 @@
 Hey 👋,
 
 I am a studying Data Science and Artificial Intelligence at Federal University of Paraiba. I am interested in all fields of Artificial Intelligence, Data Science and in love with Python.
-<!--
-**davirpp/davirpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📫 Get in touch
+- E-mail: davirpp@hotmail.com
+- Instagram: instagram.com/davirpp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/davirpp/davirpp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davirpp&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/davirpp/davirpp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davirpp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="natterstefan's GitHub Stats" />
+</a>
