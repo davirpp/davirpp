@@ -5,8 +5,10 @@ Hey 👋,
 I am a studying Data Science and Artificial Intelligence at Federal University of Paraiba. I am interested in all fields of Artificial Intelligence, Data Science and in love with Python.
 
 ## 📫 Get in touch
-- E-mail: davirpp@hotmail.com
-- Instagram: instagram.com/davirpp
+[![Outlook](https://imgur.com/ffeGI3B.png)](mailto:davirpp@hotmail.com) &ensp;
+[![Gmail](https://imgur.com/RpheCdT.png)](mailto:1457davi@gmail.com) &ensp;
+[![Instagram](https://imgur.com/vTLXp4I.png)](https://instagram.com/davirpp) &ensp;
+[![Telegram](https://imgur.com/UtqC4ks.png)](https://t.me/Davirpp) &ensp;
 
 
 ## &#x1f4c8; My GitHub Stats
