@@ -6,7 +6,7 @@ I am a studying Data Science and Artificial Intelligence at Federal University o
 
 ## 📫 Get in touch
 [![Outlook](https://imgur.com/ffeGI3B.png)](mailto:davirpp@hotmail.com) &ensp;
-[![Gmail](https://imgur.com/RpheCdT.png)](mailto:1457davi@gmail.com) &ensp;
+[![Gmail](https://imgur.com/RpheCdT.png)](mailto:davirpp.ds@gmail.com) &ensp;
 [![Instagram](https://imgur.com/vTLXp4I.png)](https://instagram.com/davirpp) &ensp;
 [![Telegram](https://imgur.com/UtqC4ks.png)](https://t.me/Davirpp) &ensp;
 
