@@ -2,7 +2,7 @@
 
 Hey 👋,
 
-I am a studying Data Science and Artificial Intelligence at Federal University of Paraiba. I am interested in all fields of Artificial Intelligence, Data Science and in love with Python.
+I am a studying Data Science and Artificial Intelligence at Federal University of Paraiba. Interested in all fields of Artificial Intelligence, Data Science and in love with Python.
 
 ## 📫 Get in touch
 [![Outlook](https://imgur.com/ffeGI3B.png)](mailto:davirpp@hotmail.com) &ensp;
