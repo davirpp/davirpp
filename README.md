@@ -1,4 +1,4 @@
-![davirpp](https://i.imgur.com/1iZoxU8.png)
+![davirpp](https://i.imgur.com/TQfUN8m.png)
 
 Hey 👋,
 
