@@ -2,7 +2,14 @@
 
 Hey 👋,
 
-I am a studying Data Science and Artificial Intelligence at Federal University of Paraiba. Interested in all fields of Artificial Intelligence, Data Science and in love with Python.
+I am **STUDYING** Data Science and Artificial Intelligence at Federal University of Paraiba. Just a guy in love with Python.
+
+## 🙋‍♂️ My Interests
+* Data Science
+* Artificial Intelligence
+* Math and Statistic
+* Play guitar
+* Play games like CS and COD Warzone
 
 ## 📫 Get in touch
 [![Outlook](https://imgur.com/ffeGI3B.png)](mailto:davirpp@hotmail.com) &ensp;
