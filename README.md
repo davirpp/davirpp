@@ -7,8 +7,14 @@ I am **STUDYING** Data Science and Artificial Intelligence at Federal University
 * Data Science
 * Artificial Intelligence
 * Math and Statistic
-* Play guitar
-* Play games like CS and COD Warzone
+* Operational Research
+* Play games 
+
+## 💪 My skills
+* Python
+* C/C++
+* R
+* PostgreSQL
 
 ## 📫 Get in touch
 [![Outlook](https://imgur.com/ffeGI3B.png)](mailto:davirpp@hotmail.com) &ensp;
