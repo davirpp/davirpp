@@ -1,5 +1,4 @@
-![davirpp](https://i.imgur.com/TQfUN8m.png)
-
+![davirpp](https://imgur.com/GdKS5KD.png) 
 Hey 👋,
 
 I am **STUDYING** Data Science and Artificial Intelligence at Federal University of Paraiba. Just a guy in love with Python.
