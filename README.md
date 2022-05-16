@@ -8,7 +8,6 @@ I am **STUDYING** Data Science and Artificial Intelligence at Federal University
 * Artificial Intelligence
 * Math and Statistic
 * Operational Research
-* Play games 
 
 ## 💪 My skills
 * Python
