@@ -18,7 +18,7 @@ I am **STUDYING** Data Science and Artificial Intelligence at Federal University
 ## 📫 Get in touch
 [![Outlook](https://imgur.com/ffeGI3B.png)](mailto:davirpp@hotmail.com) &ensp;
 [![Gmail](https://imgur.com/RpheCdT.png)](mailto:davirpp.ds@gmail.com) &ensp;
-[![LinkedIn](https://i.imgur.com/rgMtwhO.png)](https://www.linkedin.com/in/davi-ribeiro-9a23731a2/) &ensp;
+[![LinkedIn](https://i.imgur.com/rgMtwhO.png)](https://www.linkedin.com/in/davirpp) &ensp;
 [![Instagram](https://imgur.com/vTLXp4I.png)](https://instagram.com/davirpp) &ensp;
 [![Telegram](https://imgur.com/UtqC4ks.png)](https://t.me/Davirpp) &ensp;
 
