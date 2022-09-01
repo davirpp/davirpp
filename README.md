@@ -24,7 +24,15 @@ I am **STUDYING** Data Science and Artificial Intelligence at Federal University
 
 ## &#x1f4c8; My GitHub Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davirpp&label=Profile%20views&color=0e75b6&style=flat" alt="davirpp" /> </p>
+</details>
+<div align='center'>
+<div>
+  <a href="https://github.com/davirpp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davirpp&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davirpp&layout=compact&theme=algolia&icon_color=fb8b28)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davirpp&hide=contribs,issues&show_icons=true&theme=algolia&icon_color=fb8b28&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/davirpp">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davirpp&theme=github_dark"/>
+</div>
+
