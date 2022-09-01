@@ -1,6 +1,6 @@
 <div align='center'>
 
-![davirpp](https://i.imgur.com/8OB5kj8.png)  
+![davirpp](https://i.imgur.com/VSvrqZo.png)
 
 I am **STUDYING** Data Science and Artificial Intelligence at Federal University of Paraiba. Just a guy in love with Python.
 
