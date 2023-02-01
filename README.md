@@ -1,8 +1,8 @@
 <div align='center'>
 
-![davirpp](https://i.imgur.com/VSvrqZo.png)
-
-I am **STUDYING** Data Science and Artificial Intelligence at Federal University of Paraiba. Just a guy in love with Python.
+<h2 align="center">Hi person, I hope you like my repositories!</h2>  
+  
+I am **STUDYING** Data Science and Artificial Intelligence at Federal University of Paraiba. Definitely a guy passionate about Python and data who really likes to solve problems and watch Formula 1.
 
 ## 🙋‍♂️ My Interests
 Data Science
