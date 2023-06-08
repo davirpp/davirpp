@@ -9,11 +9,11 @@ Data Science
   
 Artificial Intelligence
   
+Machine Learning
+  
 Math and Statistic
   
 Operational Research
-  
-Machine Learning
   
 ## 💪 My Skills and Tools
 
