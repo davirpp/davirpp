@@ -1,6 +1,6 @@
 <div align='center'>
 
-<h2 align="center">Hi people, I hope you like my repositories!</h2>  
+<h2 align="center">👋 Hello! I'm Davi</h2>
   
 I am **STUDYING** Data Science and Artificial Intelligence at Federal University of Paraiba. Definitely a guy passionate about Python and data who really likes to solve problems and watch Formula 1.
 
