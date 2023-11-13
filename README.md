@@ -14,8 +14,9 @@ class Davirpp(Data_Scientist):
     self.role = ["Data Scientist", "Data Analyst"]
     self.language_spoken = ["pt_BR", "en_US"]
     self.code = ["Python", "SQL", "R", "C", "C++", "Julia"]
+    self.python_libs = ["Pandas", "Numpy", "Matplotlib", "Scikit-Learn", "TensorFlow", "Pytorch"]
     self.database = ["MySQL", "PostgreSQL", "SQLite"]
-    self.tools = ["Pandas", "Numpy", "Matplotlib", "Scikit-Learn", "TensorFlow", "Pytorch", "Jupyter", "Power BI", "Git", "Notion", "Office"]
+    self.tools = ["Jupyter", "Power BI", "Git", "Notion", "Office"]
     self.interests = ["Data Science", "Artificial Intelligence", "Machine Learning", "Math and Statistic", "Operational Research"]
 
     def say_hi(self):
