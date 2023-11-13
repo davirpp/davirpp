@@ -2,7 +2,7 @@
 
 <h2 align="center">👋 Hello! I'm Davi</h2>
   
-I'm ina bachelor of Data Science and Artificial Intelligence at Federal University of Paraiba. Definitely a guy passionate about Python and data who really likes to solve problems and watch Formula 1.
+I am studying a bachelor's degree in Data Science and Artificial Intelligence at the Federal University of Paraíba. Definitely a passionate Python and data guy who really enjoys solving problems and watching Formula 1.
 
 
 ```
