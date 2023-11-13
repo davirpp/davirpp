@@ -17,7 +17,9 @@ class Davirpp(Data_Scientist):
     self.python_libs = ["Pandas", "Numpy", "Matplotlib", "Scikit-Learn", "TensorFlow", "Pytorch"]
     self.database = ["MySQL", "PostgreSQL", "SQLite"]
     self.tools = ["Jupyter", "Power BI", "Git", "Notion", "Office"]
-    self.interests = ["Data Science", "Artificial Intelligence", "Machine Learning", "Math and Statistic", "Operational Research"]
+    self.interests =
+        ["Data Science", "Artificial Intelligence", "Machine Learning",
+         "Deep Learning", "Math and Statistic", "Operational Research"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
