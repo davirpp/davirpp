@@ -1,6 +1,6 @@
 
 
-<h2 align="center">👋 Hello! I'm Davi</h2>
+<h2 align='center'>👋 Hello! I'm Davi</h2>
   
 I am studying a bachelor's degree in Data Science and Artificial Intelligence at the Federal University of Paraíba. Definitely a passionate Python and data guy who really enjoys solving problems and watching Formula 1.
 
@@ -9,23 +9,23 @@ I am studying a bachelor's degree in Data Science and Artificial Intelligence at
 class Davirpp(Data_Scientist):
 
     def __init__(self):
-    self.username = "davirpp"
-    self.name = "Davi Ribeiro"
-    self.role = ["Data Scientist", "Data Analyst"]
-    self.language_spoken = ["pt_BR", "en_US"]
-    self.code = ["Python", "SQL", "R", "C", "C++", "Julia"]
-    self.python_libs = ["Pandas", "Numpy", "Matplotlib", "Scikit-Learn", "TensorFlow", "Pytorch"]
-    self.database = ["MySQL", "PostgreSQL", "SQLite"]
-    self.tools = ["Jupyter", "Power BI", "Git", "Notion", "Office"]
+    self.username = 'davirpp'
+    self.name = 'Davi Ribeiro'
+    self.role = ['Data Scientist', 'Data Analyst']
+    self.language_spoken = ['pt_BR', 'en_US']
+    self.code = ['Python', 'SQL', 'R', 'C', 'C++', 'Julia']
+    self.python_libs = ['Pandas', 'Numpy', 'Matplotlib', 'Scikit-Learn', 'TensorFlow', 'Pytorch']
+    self.database = ['MySQL', 'PostgreSQL', 'SQLite']
+    self.tools = ['Jupyter', 'Power BI', 'Git', 'Notion', 'Office']
     self.interests =
-        ["Data Science", "Artificial Intelligence", "Machine Learning",
-         "Deep Learning", "Math and Statistic", "Operational Research"]
+        ['Data Science', 'Artificial Intelligence', 'Machine Learning',
+         'Deep Learning', 'Math and Statistic', 'Operational Research']
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print('Thanks for dropping by, hope you find some of my work interesting.')
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     me = Davirpp()
     me.say_hi()
 
@@ -42,6 +42,6 @@ if __name__ == "__main__":
 
 ## &#x1f4c8; My GitHub Stats
 <div>
-  <a href="https://github.com/davirpp">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davirpp&theme=github_dark"/>
+  <a href='https://github.com/davirpp'>
+  <img height='180em' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davirpp&theme=github_dark'/>
 </div>
