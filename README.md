@@ -9,21 +9,19 @@ I am studying a bachelor's degree in Data Science and Artificial Intelligence at
 class Davirpp(Data_Scientist):
 
     def __init__(self):
-    self.username = 'davirpp'
-    self.name = 'Davi Ribeiro'
-    self.role = ['Data Scientist', 'Data Analyst']
-    self.language_spoken = ['pt_BR', 'en_US']
-    self.code = ['Python', 'SQL', 'R', 'C', 'C++', 'Julia']
-    self.python_libs = ['Pandas', 'Numpy', 'Matplotlib', 'Scikit-Learn', 'TensorFlow', 'Pytorch', 'PySpark']
-    self.database = ['MySQL', 'PostgreSQL', 'SQLite']
-    self.tools = ['Jupyter', 'Power BI', 'Git', 'Notion', 'Office', 'Spark']
-    self.interests =
-        ['Data Science', 'Artificial Intelligence', 'Machine Learning',
-         'Deep Learning', 'Math and Statistic', 'Operational Research']
+      self.username = 'davirpp'
+      self.name = 'Davi Ribeiro'
+      self.role = ['Data Scientist', 'Data Analyst']
+      self.language_spoken = ['pt_BR', 'en_US']
+      self.code = ['Python', 'SQL', 'R', 'C', 'C++', 'Julia']
+      self.python_libs = ['Pandas', 'Numpy', 'Matplotlib', 'Scikit-Learn', 'TensorFlow', 'Pytorch', 'PySpark']
+      self.database = ['MySQL', 'PostgreSQL', 'SQLite']
+      self.tools = ['Jupyter', 'Power BI', 'Git', 'Notion', 'Office', 'Spark']
+      self.interests = ['Data Science', 'Artificial Intelligence', 'Machine Learning',
+                        'Deep Learning', 'Math and Statistic', 'Operational Research']
 
     def say_hi(self):
         print('Thanks for dropping by, hope you find some of my work interesting.')
-
 
 if __name__ == '__main__':
     me = Davirpp()
