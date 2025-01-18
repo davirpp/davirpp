@@ -11,12 +11,14 @@ class Davirpp(Data_Scientist):
     def __init__(self):
       self.username = 'davirpp'
       self.name = 'Davi Ribeiro'
-      self.role = ['Data Scientist', 'Data Analyst']
+      self.role = ['Data Scientist', 'Data Analyst', 'Analytics Engineer']
       self.language_spoken = ['pt_BR', 'en_US']
-      self.code = ['Python', 'SQL', 'R', 'C', 'C++', 'Julia']
-      self.python_libs = ['Pandas', 'Numpy', 'Matplotlib', 'Scikit-Learn', 'TensorFlow', 'Pytorch', 'PySpark']
+      self.code = ['Python', 'SQL', 'C', 'C++', 'Julia']
+      self.python_libs = ['Pandas', 'Numpy', 'Matplotlib', 'Scikit-Learn', 'TensorFlow',
+                          'Keras', 'Pytorch', 'PySpark']
       self.database = ['MySQL', 'PostgreSQL', 'SQLite']
-      self.tools = ['Jupyter', 'Power BI', 'Git', 'Notion', 'Office', 'Spark']
+      self.tools = ['Jupyter', 'Power BI', 'Git', 'Notion', 'Office', 'Spark', 'Databricks', 'Airflow']
+      self.cloud = ['AWS', 'GCP']
       self.interests = ['Data Science', 'Artificial Intelligence', 'Machine Learning',
                         'Deep Learning', 'Math and Statistic', 'Operational Research']
 
